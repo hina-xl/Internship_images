@@ -1,0 +1,14 @@
+name: dashboard-env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - conda-forge
+dependencies:
+  - python=3.8
+  - panel
+  - nbserverproxy
+  - bokeh
+  - tornado
+  - jupyter-panel-proxy
+prefix: /opt/anaconda3/envs/dashboard-env
