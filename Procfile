@@ -1,0 +1,1 @@
+web: panel serve --address"0.0.0.0" --port=$PORT dashboard_simple.py --allow-websocket-origin=eileen-internship-dashboard.herokuapp.com
