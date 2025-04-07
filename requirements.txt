@@ -1,2 +1,4 @@
 panel
 nbconvert
+bokeh
+jupyter_bokeh
