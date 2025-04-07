@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT dashboard_simple.ipynb --allow-websocket-origin=eileen-internship-dashboard.herokuapp.com
+web: panel serve --address="0.0.0.0" --port=$PORT dashboard_simple.ipynb --allow-websocket-origin=eileen-internship-dashboard-9f88adf994ed.herokuapp.com
