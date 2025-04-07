@@ -1,7 +1,2 @@
-bokeh
-pandas
 panel
-param
-pytz
-scikit-learn
-tornado
+nbconvert
