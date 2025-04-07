@@ -137,7 +137,7 @@ fig4_draft_caption = 'captions/Fig4_draft_info.png'
 ############################################### Create figures #################################################################
 def CreatePage1():
     # Add image for the introduction
-    image_path='drafts/coverslide.png'
+    image_path='drafts/Coverslide.png'
     return pn.pane.PNG(image_path, width=1280, height=720)
 
 def staticimage(image_path, caption_path, info_path):
